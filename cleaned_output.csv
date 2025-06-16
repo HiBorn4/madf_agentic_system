@@ -1,0 +1,50 @@
+name,email,street,city,country,email_valid,is_duplicate,country_valid,full_address,email_domain
+Eve Adams,jane.smith@example.com,303 Cedar Blvd,Smallville,Canada,True,False,False,"303 Cedar Blvd, Smallville, Canada",example.com
+Heidi Lopez,bob.lee@,456 Oak St,Gotham,UK,False,False,False,"456 Oak St, Gotham, UK",
+Dave O,eve.adams@example.com,404 Spruce St,Gotham,Canada,True,False,False,"404 Spruce St, Gotham, Canada",example.com
+Heidi Lopez,h.i@foo.com,505 Aspen Way,Star City,Canada,True,False,False,"505 Aspen Way, Star City, Canada",foo.com
+Jane Smith,alice@doe.org,404 Spruce St,Gotham,Italy,True,False,False,"404 Spruce St, Gotham, Italy",doe.org
+Heidi Lopez,eve.adams@example.com,789 Pine St,Star City,Germany,True,False,False,"789 Pine St, Star City, Germany",example.com
+Alice Cooper,bob.lee@,456 Oak St,Metropolis,UK,False,False,False,"456 Oak St, Metropolis, UK",
+Charlie Brown,carol.king@gmail,505 Aspen Way,Star City,United States,False,False,False,"505 Aspen Way, Star City, United States",gmail
+Heidi Lopez,invalidemail.com,505 Aspen Way,Star City,United States,False,False,False,"505 Aspen Way, Star City, United States",
+Harvey Specter,dave.o@example.com,789 Pine St,Gotham,Italy,True,False,False,"789 Pine St, Gotham, Italy",example.com
+Alice Cooper,johndoe[at]gmail.com,606 Palm St,Central City,United Kingdom,False,False,False,"606 Palm St, Central City, United Kingdom",
+Dave O,eve.adams@example.com,123 Elm St,Star City,United Kingdom,True,False,False,"123 Elm St, Star City, United Kingdom",example.com
+Heidi Lopez,johndoe[at]gmail.com,606 Palm St,Blüdhaven,UK,False,False,False,"606 Palm St, Blüdhaven, UK",
+Harvey Specter,johndoe[at]gmail.com,404 Spruce St,Smallville,Canada,False,False,False,"404 Spruce St, Smallville, Canada",
+Harvey Specter,johndoe[at]gmail.com,789 Pine St,Blüdhaven,Italy,False,False,False,"789 Pine St, Blüdhaven, Italy",
+,h.i@foo.com,456 Oak St,Central City,Canada,True,False,False,"456 Oak St, Central City, Canada",foo.com
+John Doe,carol.king@gmail,505 Aspen Way,Coast City,United Kingdom,False,False,False,"505 Aspen Way, Coast City, United Kingdom",gmail
+Bob Lee,h.i@foo.com,789 Pine St,Smallville,United States,True,False,False,"789 Pine St, Smallville, United States",foo.com
+Jane Smith,dave.o@example.com,606 Palm St,Central City,Italy,True,False,False,"606 Palm St, Central City, Italy",example.com
+Jane Smith,carol.king@gmail,789 Pine St,Gotham,Germany,False,False,False,"789 Pine St, Gotham, Germany",gmail
+Bob Lee,invalidemail.com,303 Cedar Blvd,Central City,United States,False,False,False,"303 Cedar Blvd, Central City, United States",
+John Doe,carol.king@gmail,404 Spruce St,Metropolis,USA,False,False,False,"404 Spruce St, Metropolis, USA",gmail
+Charlie Brown,eve.adams@example.com,303 Cedar Blvd,Metropolis,United Kingdom,True,False,False,"303 Cedar Blvd, Metropolis, United Kingdom",example.com
+Charlie Brown,jane.smith@example.com,789 Pine St,Smallville,Canada,True,False,False,"789 Pine St, Smallville, Canada",example.com
+Bob Lee,eve.adams@example.com,789 Pine St,Smallville,Italy,True,False,False,"789 Pine St, Smallville, Italy",example.com
+John Doe,bob.lee@,404 Spruce St,Coast City,United States,False,False,False,"404 Spruce St, Coast City, United States",
+,johndoe[at]gmail.com,505 Aspen Way,Smallville,Germany,False,True,False,"505 Aspen Way, Smallville, Germany",
+Mike Ross,johndoe[at]gmail.com,303 Cedar Blvd,Metropolis,Italy,False,False,False,"303 Cedar Blvd, Metropolis, Italy",
+,eve.adams@example.com,404 Spruce St,Star City,UK,True,False,False,"404 Spruce St, Star City, UK",example.com
+Eve Adams,alice@doe.org,404 Spruce St,Star City,Germany,True,False,False,"404 Spruce St, Star City, Germany",doe.org
+Mike Ross,h.i@foo.com,123 Elm St,Star City,France,True,False,False,"123 Elm St, Star City, France",foo.com
+Heidi Lopez,dave.o@example.com,456 Oak St,Metropolis,United States,True,False,False,"456 Oak St, Metropolis, United States",example.com
+Mike Ross,eve.adams@example.com,456 Oak St,Metropolis,Canada,True,False,False,"456 Oak St, Metropolis, Canada",example.com
+Charlie Brown,bob.lee@,789 Pine St,Star City,USA,False,False,False,"789 Pine St, Star City, USA",
+Dave O,h.i@foo.com,404 Spruce St,Gotham,Germany,True,False,False,"404 Spruce St, Gotham, Germany",foo.com
+Heidi Lopez,eve.adams@example.com,456 Oak St,Gotham,United States,True,False,False,"456 Oak St, Gotham, United States",example.com
+Ivan Petrov,carol.king@gmail,789 Pine St,Gotham,USA,False,False,False,"789 Pine St, Gotham, USA",gmail
+Charlie Brown,johndoe[at]gmail.com,404 Spruce St,Coast City,Canada,False,False,False,"404 Spruce St, Coast City, Canada",
+Harvey Specter,bob.lee@,789 Pine St,Smallville,UK,False,False,False,"789 Pine St, Smallville, UK",
+,eve.adams@example.com,789 Pine St,Smallville,United States,True,False,False,"789 Pine St, Smallville, United States",example.com
+Grace Harper,eve.adams@example.com,303 Cedar Blvd,Gotham,France,True,False,False,"303 Cedar Blvd, Gotham, France",example.com
+Alice Cooper,h.i@foo.com,456 Oak St,Star City,United States,True,False,False,"456 Oak St, Star City, United States",foo.com
+Dave O,carol.king@gmail,123 Elm St,Coast City,Italy,False,False,False,"123 Elm St, Coast City, Italy",gmail
+,bob.lee@,404 Spruce St,Gotham,United Kingdom,False,False,False,"404 Spruce St, Gotham, United Kingdom",
+,johndoe[at]gmail.com,456 Oak St,Star City,USA,False,False,False,"456 Oak St, Star City, USA",
+Heidi Lopez,carol.king@gmail,606 Palm St,Coast City,United States,False,False,False,"606 Palm St, Coast City, United States",gmail
+Dave O,carol.king@gmail,606 Palm St,Star City,United States,False,False,False,"606 Palm St, Star City, United States",gmail
+Alice Cooper,eve.adams@example.com,456 Oak St,Smallville,USA,True,False,False,"456 Oak St, Smallville, USA",example.com
+Mike Ross,bob.lee@,123 Elm St,Metropolis,UK,False,False,False,"123 Elm St, Metropolis, UK",

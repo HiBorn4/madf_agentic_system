@@ -1,0 +1,57 @@
+2025-06-16 12:31:30,565 Detection Agent found 28 issues
+2025-06-16 12:31:30,566   Issue at row 1: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 6: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 7: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 8: email → invalidemail.com
+2025-06-16 12:31:30,566   Issue at row 10: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 12: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 13: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 14: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 16: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 19: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 20: email → invalidemail.com
+2025-06-16 12:31:30,566   Issue at row 21: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 25: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 26: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 27: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 31: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 34: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 37: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 38: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 39: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 43: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 44: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 45: email → johndoe[at]gmail.com
+2025-06-16 12:31:30,566   Issue at row 46: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 47: email → carol.king@gmail
+2025-06-16 12:31:30,566   Issue at row 49: email → bob.lee@
+2025-06-16 12:31:30,566   Issue at row 26: duplicate → {'name': nan, 'email': 'johndoe[at]gmail.com', 'street': '505 Aspen Way', 'city': 'Smallville', 'country': 'German', 'email_valid': False, 'is_duplicate': True}
+2025-06-16 12:31:30,566   Issue at row 31: duplicate → {'name': nan, 'email': 'johndoe[at]gmail.com', 'street': '404 Spruce St', 'city': 'Gotham', 'country': 'German', 'email_valid': False, 'is_duplicate': True}
+2025-06-16 12:31:30,587 Correction Agent applied fixes:
+2025-06-16 12:31:30,588   Dropped 1 duplicate row(s)
+2025-06-16 12:31:30,588   Row 0: country 'Canad' → 'Canada'
+2025-06-16 12:31:30,588   Row 2: country 'Canad' → 'Canada'
+2025-06-16 12:31:30,588   Row 5: country 'German' → 'Germany'
+2025-06-16 12:31:30,588   Row 7: country 'Unites States' → 'United States'
+2025-06-16 12:31:30,588   Row 10: country 'United Kindgom' → 'United Kingdom'
+2025-06-16 12:31:30,588   Row 11: country 'United Kindgom' → 'United Kingdom'
+2025-06-16 12:31:30,588   Row 16: country 'United Kindgom' → 'United Kingdom'
+2025-06-16 12:31:30,588   Row 19: country 'German' → 'Germany'
+2025-06-16 12:31:30,588   Row 22: country 'United Kindgom' → 'United Kingdom'
+2025-06-16 12:31:30,588   Row 23: country 'Canad' → 'Canada'
+2025-06-16 12:31:30,588   Row 25: country 'Unites States' → 'United States'
+2025-06-16 12:31:30,588   Row 26: country 'German' → 'Germany'
+2025-06-16 12:31:30,588   Row 29: country 'German' → 'Germany'
+2025-06-16 12:31:30,588   Row 30: country 'Frnce' → 'France'
+2025-06-16 12:31:30,588   Row 32: country 'Unites States' → 'United States'
+2025-06-16 12:31:30,588   Row 33: country 'Canad' → 'Canada'
+2025-06-16 12:31:30,588   Row 35: country 'German' → 'Germany'
+2025-06-16 12:31:30,588   Row 36: country 'Unites States' → 'United States'
+2025-06-16 12:31:30,588   Row 38: country 'Canad' → 'Canada'
+2025-06-16 12:31:30,588   Row 41: country 'Frnce' → 'France'
+2025-06-16 12:31:30,588   Row 44: country 'United Kindgom' → 'United Kingdom'
+2025-06-16 12:31:30,588   Row 47: country 'Unites States' → 'United States'
+2025-06-16 12:31:30,589 Enrichment Agent did:
+2025-06-16 12:31:30,589   Added full_address column
+2025-06-16 12:31:30,589   Added email_domain column
+2025-06-16 12:31:30,591 Cleaned data written to cleaned_output.csv

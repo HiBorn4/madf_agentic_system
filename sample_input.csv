@@ -1,0 +1,51 @@
+name,email,street,city,country
+Eve Adams,jane.smith@example.com,303 Cedar Blvd,Smallville,Canad
+Heidi Lopez,bob.lee@,456 Oak St,Gotham,UK
+Dave O,eve.adams@example.com,404 Spruce St,Gotham,Canad
+Heidi Lopez,h.i@foo.com,505 Aspen Way,Star City,Canada
+Jane Smith,alice@doe.org,404 Spruce St,Gotham,Italy
+Heidi Lopez,eve.adams@example.com,789 Pine St,Star City,German
+Alice Cooper,bob.lee@,456 Oak St,Metropolis,UK
+Charlie Brown,carol.king@gmail,505 Aspen Way,Star City,Unites States
+Heidi Lopez,invalidemail.com,505 Aspen Way,Star City,United States
+Harvey Specter,dave.o@example.com,789 Pine St,Gotham,Italy
+Alice Cooper,johndoe[at]gmail.com,606 Palm St,Central City,United Kindgom
+Dave O,eve.adams@example.com,123 Elm St,Star City,United Kindgom
+Heidi Lopez,johndoe[at]gmail.com,606 Palm St,Blüdhaven,UK
+Harvey Specter,johndoe[at]gmail.com,404 Spruce St,Smallville,Canada
+Harvey Specter,johndoe[at]gmail.com,789 Pine St,Blüdhaven,Italy
+,h.i@foo.com,456 Oak St,Central City,Canada
+John Doe,carol.king@gmail,505 Aspen Way,Coast City,United Kindgom
+Bob Lee,h.i@foo.com,789 Pine St,Smallville,United States
+Jane Smith,dave.o@example.com,606 Palm St,Central City,Italy
+Jane Smith,carol.king@gmail,789 Pine St,Gotham,German
+Bob Lee,invalidemail.com,303 Cedar Blvd,Central City,United States
+John Doe,carol.king@gmail,404 Spruce St,Metropolis,USA
+Charlie Brown,eve.adams@example.com,303 Cedar Blvd,Metropolis,United Kindgom
+Charlie Brown,jane.smith@example.com,789 Pine St,Smallville,Canad
+Bob Lee,eve.adams@example.com,789 Pine St,Smallville,Italy
+John Doe,bob.lee@,404 Spruce St,Coast City,Unites States
+,johndoe[at]gmail.com,505 Aspen Way,Smallville,German
+Mike Ross,johndoe[at]gmail.com,303 Cedar Blvd,Metropolis,Italy
+,eve.adams@example.com,404 Spruce St,Star City,UK
+Eve Adams,alice@doe.org,404 Spruce St,Star City,German
+Mike Ross,h.i@foo.com,123 Elm St,Star City,Frnce
+,johndoe[at]gmail.com,404 Spruce St,Gotham,German
+Heidi Lopez,dave.o@example.com,456 Oak St,Metropolis,Unites States
+Mike Ross,eve.adams@example.com,456 Oak St,Metropolis,Canad
+Charlie Brown,bob.lee@,789 Pine St,Star City,USA
+Dave O,h.i@foo.com,404 Spruce St,Gotham,German
+Heidi Lopez,eve.adams@example.com,456 Oak St,Gotham,Unites States
+Ivan Petrov,carol.king@gmail,789 Pine St,Gotham,USA
+Charlie Brown,johndoe[at]gmail.com,404 Spruce St,Coast City,Canad
+Harvey Specter,bob.lee@,789 Pine St,Smallville,UK
+,eve.adams@example.com,789 Pine St,Smallville,United States
+Grace Harper,eve.adams@example.com,303 Cedar Blvd,Gotham,Frnce
+Alice Cooper,h.i@foo.com,456 Oak St,Star City,United States
+Dave O,carol.king@gmail,123 Elm St,Coast City,Italy
+,bob.lee@,404 Spruce St,Gotham,United Kindgom
+,johndoe[at]gmail.com,456 Oak St,Star City,USA
+Heidi Lopez,carol.king@gmail,606 Palm St,Coast City,United States
+Dave O,carol.king@gmail,606 Palm St,Star City,Unites States
+Alice Cooper,eve.adams@example.com,456 Oak St,Smallville,USA
+Mike Ross,bob.lee@,123 Elm St,Metropolis,UK
